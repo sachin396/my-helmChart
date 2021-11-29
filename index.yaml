@@ -11,15 +11,4 @@ entries:
     urls:
     - https://sachin396.github.io/my-helmChart/hello-world-0.1.0.tgz
     version: 0.1.0
-  helm-chart-test:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2021-11-29T23:46:34.21247127+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 1c5ce2b7df4924f5080fb44036c9481b9dcf72c2b3479d40fe3e36366a7f98cd
-    name: helm-chart-test
-    type: application
-    urls:
-    - https://sachin396.github.io/my-helmChart/helm-chart-test-0.1.0.tgz
-    version: 0.1.0
 generated: "2021-11-29T23:46:34.210111802+05:30"
